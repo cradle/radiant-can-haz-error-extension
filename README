@@ -1,0 +1,13 @@
+= Can Haz Error
+
+Simple page that will throw an error. For testing how your site handles errors.
+
+= Usage
+
+1. Create a page of type "Can Haz Error"
+
+2. Set page type to published
+
+3. Navigate to page
+
+4. Boom
